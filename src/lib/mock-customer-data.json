@@ -1,0 +1,23 @@
+{
+  "ABCDE1234F": {
+    "fullName": "Rohan Sharma",
+    "creditScore": 780,
+    "status": "verified"
+  },
+  "GHJIK5678L": {
+    "fullName": "Priya Singh",
+    "creditScore": 620,
+    "status": "verified"
+  },
+  "MNBVC9012P": {
+    "fullName": "Sameer Ali",
+    "creditScore": 850,
+    "status": "verified"
+  },
+  "QWERT4567Y": {
+    "fullName": "Ananya Reddy",
+    "creditScore": 410,
+    "status": "rejected_high_risk"
+  }
+}
+
